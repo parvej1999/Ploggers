@@ -1,13 +1,13 @@
 # Ploggers
 This website is hosted on Heroku server. Its link is: https://theploggers.herokuapp.com/
-#To create a virtual environment
+# To create a virtual environment
 python3 -m venv dev-env
-#To activate the virtual environment
-    #Linux
+# To activate the virtual environment
+    1) Linux
         source dev-env(environment-name)/bin/activate
-    #Windows CMD
+    2) Windows CMD
         dev-env(environment-name)\Scripts\activate.bat  
 
-#If Psycopg2 not installed in Linux
+# If Psycopg2 not installed in Linux
     --first install sudo apt-get install libpq-dev
     --second pip install psycopg2
