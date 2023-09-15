@@ -1,7 +1,8 @@
 # Ploggers
 This website is hosted on Heroku server. Its link is: https://theploggers.herokuapp.com/
 # To create a virtual environment
-python3 -m venv dev-env
+    First install venv -> sudo apt install -m python3-venv
+    Then run to create one -> python3 -m venv dev-env
 # To activate the virtual environment
     1) Linux
         source dev-env(environment-name)/bin/activate
