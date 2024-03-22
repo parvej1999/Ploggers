@@ -10,5 +10,5 @@ This website is hosted on Heroku server. Its link is: https://theploggers.heroku
         dev-env(environment-name)\Scripts\activate.bat  
 
 # If Psycopg2 not installed in Linux
-    --first install sudo apt-get install libpq-dev
-    --second pip install psycopg2
+    --first install "sudo apt-get install libpq-dev"
+    --second "pip install psycopg2"
